@@ -12,4 +12,4 @@ O template do projeto contém:
 Para rodar o projeto em ambiente virtualizado (Codespace) você deve:
 - logar no GitHub com sua conta
 - para criar uma máquina virtual com o ambiente de desenvolvimento, clique no botão "Code" e depois em "Open with Codespaces"
-- para salvar o conteúdo da máquina virtual, você pode exportar as mudanças da máquina virtual para um fork na sua conta
+- posteriormente, você pode exportar as mudanças da máquina virtual para um fork na sua conta
