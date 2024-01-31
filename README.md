@@ -8,3 +8,9 @@ O template do projeto contém:
   - `lib`: compilação do módulo
   - `run`: execução do programa principal
   - `clean`: remoção dos arquivos objeto e do programa principal
+
+Para rodar o projeto em ambiente virtualizado (Codespace) você deve:
+- logar no GitHub com sua conta
+- para criar um máquina virtual com o ambiente de desenvolvimento, você tem duas opções:
+  - criar o ambiente virtualizado a partir do repositório original: clicar no botão "Code" e depois em "Open with Codespaces"
+  - criar o ambiente virtualizado a partir de um repositório privado na sua conta (recomendado): nesse caso você precisa ou fazer um fork ou criar um repositório a partir do template
